@@ -2,7 +2,7 @@
 
 I'm a developer who enjoys building practical projects and learning through experimentation. 
 
-I **LOVE** Music, so I built projects exploring music and data.
+I **LOVE** Music and AI, so I built projects exploring music and data.
 
 Contact:
 ---
