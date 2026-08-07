@@ -1,7 +1,8 @@
 # Hi, I'm Jerry 👋
 
 I'm a developer who enjoys building practical projects and learning through experimentation.
+I LOVE Music, so I built projects exploring music and data.
 
-- 🌱 Exploring Java, Next.js, and AI
-- 🎵 Building music recognition and data-driven apps
-- 🚀 Always learning, building, and improving
+Contact:
+My Email: Jerry.yr.wu@gmail.com
+My Personal Website: JerNB.github.io
