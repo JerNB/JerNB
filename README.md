@@ -4,7 +4,7 @@ I'm a developer who enjoys building practical projects and learning through expe
 
 I **LOVE** Music, so I built projects exploring music and data.
 
-# Contact:
+Contact:
 ---
 My Email: Jerry.yr.wu@gmail.com
 
